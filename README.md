@@ -1,0 +1,1 @@
+The instruction template was: https://jschof.com/gutenberg-blocks/proof-of-concept/vue-js-wordpress-using-vuera-to-run-vue-in-react/
